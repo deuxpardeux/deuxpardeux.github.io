@@ -1,0 +1,846 @@
+{
+  "snow-shop-test": [],
+  "girls-test": [
+    {
+      "position": 6,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20Z61_2J289_1_e8184b0e-0f04-417d-9a87-1b9b15dff13f.jpg?v=1779140978",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-tees-and-tops": [
+    {
+      "position": 44,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20Q70_09990_1_575d9d5d-bfc2-44bc-82a4-c664a8b60146.jpg?v=1779140811",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-fall-winter-collection": [],
+  "boy-fall-winter-collection": [],
+  "girl-outerwear": [
+    {
+      "position": 6,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W40_06012_1.jpg?v=1782417043",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-outerwear": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W65_04810_1_91928e80-3a32-4022-9426-113bc9d62481.jpg?v=1779140913",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-winter-accessories": [],
+  "boy-winter-accessories": [],
+  "baby-winter-accessories": [],
+  "girl-snowsuits": [],
+  "boy-snowsuits": [],
+  "boy-tees-and-tops": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20OB16_2J314_1_2facbe6d-9487-4a6d-b943-5b5d928f632b.jpg?v=1779140714",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-fall-winter-collection": [],
+  "girl-organic-cotton": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20Q70_09990_1_575d9d5d-bfc2-44bc-82a4-c664a8b60146.jpg?v=1779140811",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "swimwear": [],
+  "kids-mid-season-outerwear-rainwear-for-kids": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W69_1J087_1_5200e50f-c19e-4929-b1e5-ddefddd27589.jpg?v=1779140926",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-fall-winter-collection": [],
+  "baby-outerwear": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20F50B_2J253_1.jpg?v=1783620054",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-leggings": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20I61_01730_1_0c219a24-4db1-4a75-aa57-42cfc73831c2.jpg?v=1779140678",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-pants-and-shorts": [
+    {
+      "position": 40,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20I61_01730_1_0c219a24-4db1-4a75-aa57-42cfc73831c2.jpg?v=1779140678",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-organic-cotton": [
+    {
+      "position": 39,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20T70_02290_1_b49a13ee-4795-4d0e-a089-1c50ec17d45f.jpg?v=1779140835",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "two-piece-snowsuits": [],
+  "boy-outdoor-collection": [
+    {
+      "position": 37,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W35_09990_1_4383dc6c-7c46-4471-a8eb-306d6d675269.jpg?v=1786455126",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-pants-and-shorts": [
+    {
+      "position": 35,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20T21_03016_1_19a409a6-823f-48c0-ad4c-6cee4d863179.jpg?v=1779140832",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-pants": [
+    {
+      "position": 35,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20H20_09990_1_3ed64e55-063c-491a-b52c-1f5760a32370.jpg?v=1779140677",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-outerwear": [
+    {
+      "position": 34,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20F50B_2J253_1.jpg?v=1783620054",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-outdoor-collection": [
+    {
+      "position": 32,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W35B_09990_1.jpg?v=1786455154",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-winter-accessories": [],
+  "girl-outdoor-collection": [
+    {
+      "position": 31,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W69_1J087_1_5200e50f-c19e-4929-b1e5-ddefddd27589.jpg?v=1779140926",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-skirts": [],
+  "boy-t-shirts": [
+    {
+      "position": 27,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20U71_03750_1_e2c80834-6607-406e-841b-bc1b7add8261.jpg?v=1779140871",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-organic-cotton": [
+    {
+      "position": 27,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20F10B_06220_1.jpg?v=1783619812",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-outerwear": [
+    {
+      "position": 26,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20W35B_09990_1.jpg?v=1786455154",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-sweaters-and-hoodies": [
+    {
+      "position": 26,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20L32_2J290_1_6d15acd0-3314-4758-bf2e-7a873e47e8f1.jpg?v=1779140694",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-casual-dresses": [
+    {
+      "position": 26,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20L88_2J290_1_cab8f8ae-cc3a-4f4b-8b02-24f42ab3aff0.jpg?v=1779140698",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-winter-accessories": [],
+  "baby-girl-snowsuits": [],
+  "girl-outdoor-hats": [
+    {
+      "position": 25,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10Z09_1J066_1_922f3271-7e0a-4114-9497-fcc70b4e5890.jpg?v=1779140510",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-outdoor-hats": [
+    {
+      "position": 24,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10ZA01_01880_1_10a5e0a9-e0b4-46ed-baf3-d2c99d3e1c9f.jpg?v=1779140537",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-snowsuits-and-bunting-bags": [],
+  "girl-t-shirts": [
+    {
+      "position": 24,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20Q70_09990_1_575d9d5d-bfc2-44bc-82a4-c664a8b60146.jpg?v=1779140811",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-accessories": [
+    {
+      "position": 24,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20VT_01060_1.jpg?v=1786454501",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-school-backpacks-and-bags": [
+    {
+      "position": 24,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20QA_2J303_1_d19f8e62-dc57-409c-9d91-4894a3f4e155.jpg?v=1779140761",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-tees-and-tops": [
+    {
+      "position": 23,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20S15B_2J266_1.jpg?v=1783627240",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-snowsuits": [],
+  "baby-boy-organic-cotton": [
+    {
+      "position": 21,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20PA40_2J240_1_772a4512-247d-4164-918e-f2efbe47000b.jpg?v=1779140743",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-outdoor-hats": [
+    {
+      "position": 21,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10ZA01_01880_1_10a5e0a9-e0b4-46ed-baf3-d2c99d3e1c9f.jpg?v=1779140537",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-base-layers": [
+    {
+      "position": 21,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10Y600_1J021_1_022220ee-2b4c-4345-948a-41157ad2fe70.jpg?v=1779140550",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-bottoms": [
+    {
+      "position": 20,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20YB24B_01250_1.jpg?v=1783628370",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-sweaters-and-hoodies": [
+    {
+      "position": 20,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20S30_2J265_1_825c3bf8-0009-47c5-8555-12bce77b3abd.jpg?v=1779140823",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-winter-hats": [],
+  "boy-backpacks-and-bags": [
+    {
+      "position": 20,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20ZBL_2J090_1_5997f296-ef50-4221-875f-f6a572dafc65.jpg?v=1777576836",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-school-backpacks-and-bags": [
+    {
+      "position": 20,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20ZBL_2J090_1_5997f296-ef50-4221-875f-f6a572dafc65.jpg?v=1777576836",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-school-supplies": [
+    {
+      "position": 18,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20ZSD_2J083_1_d6135620-b9b0-49cc-bb25-792d3624b207.jpg?v=1777576837",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-leggings": [
+    {
+      "position": 19,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20YG20B_01230_1.jpg?v=1783628553",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-outdoor-hats": [
+    {
+      "position": 18,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10Z35_1J068_1_a3411632-6950-427d-a9b5-11f53718c3e7.jpg?v=1779140512",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-school-supplies": [
+    {
+      "position": 18,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20ZBL_2J090_1_5997f296-ef50-4221-875f-f6a572dafc65.jpg?v=1777576836",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-two-piece-snowsuits": [],
+  "boy-winter-hats": [],
+  "baby-one-piece-snowsuits": [],
+  "boy-two-piece-snowsuits": [],
+  "boy-shorts": [
+    {
+      "position": 15,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/H30YB27_01720_1_b219516b-4c1d-4741-af18-5964ff208881.jpg?v=1763520017",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-shorts": [
+    {
+      "position": 14,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/H30E27_3H109_1_7f78553d-09fa-4d42-b0b7-4de57f52b989.jpg?v=1763527168",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-swimwear": [
+    {
+      "position": 13,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/H30VBC_3H157_1_c73ec1b6-9ddc-49e4-b017-04711fb665b3.jpg?v=1763518411",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-one-piece-snowsuits": [],
+  "girl-tights": [
+    {
+      "position": 13,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20VT_01060_1.jpg?v=1786454501",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-tops-and-bodysuits": [
+    {
+      "position": 12,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20S15B_2J266_1.jpg?v=1783627240",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-winter-hats": [],
+  "kids-hats": [],
+  "baby-boy-winter-hats": [],
+  "baby-girl-dresses": [
+    {
+      "position": 12,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20F87B_2J251_1.jpg?v=1783624200",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-special-occasion-dresses": [
+    {
+      "position": 12,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20OG85_07490_1_5a0e6213-543d-489a-9bc2-ed600169ce3f.jpg?v=1779140717",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "kids-swimwear": [],
+  "baby-wraps-footmuffs": [
+    {
+      "position": 11,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10A401_09990_1_9bb10b77-647b-4754-b2b6-0bf2129500ba.jpg?v=1779140235",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-one-piece-snowsuits": [],
+  "baby-girl-tops-and-bodysuits": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20E71B_01010_1.jpg?v=1783619502",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-sweatshirt": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20FT32B_06220_1.jpg?v=1783624248",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-pants": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20YB20_03690_1_30fe33ce-d20d-4294-bc7b-f0f95fa978e2.jpg?v=1779140941",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-backpacks-and-bags": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20QA_2J303_1_d19f8e62-dc57-409c-9d91-4894a3f4e155.jpg?v=1779140761",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-one-piece-bathing-suits": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/H30OG35_3H149_1_f039c0f8-8261-4df2-b94f-a3eba6bd05f5.jpg?v=1763519033",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-pajamas": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20PB10US_2J226_1_1ca45ce9-13b7-4a50-8f6e-6ecb2c3f7e87.jpg?v=1779140786",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy-shirts": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20OB16_2J314_1_2facbe6d-9487-4a6d-b943-5b5d928f632b.jpg?v=1779140714",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-tops": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20H71_09100_1_8c8db70e-ecea-43c8-8036-33b3aa679cd5.jpg?v=1779140675",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-shorts": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/H30YB27_01720_1_b219516b-4c1d-4741-af18-5964ff208881.jpg?v=1763520017",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-boy-t-shirts": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20S70B_04800_1.jpg?v=1783627729",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-pajamas": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20PG40_2J222_1_3861901a-4736-4bec-b785-fcf22021c78a.jpg?v=1779140806",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-one-piece-and-baby-rompers": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20BT40_06170_1_6116c3a8-567c-4fb3-af1b-935175651ce0.jpg?v=1779140585",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "coats-for-kids-from-2-to-14-years": [],
+  "girl-pants": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20H20_09990_1_3ed64e55-063c-491a-b52c-1f5760a32370.jpg?v=1779140677",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-headwear": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/H30VGC_3H152_1_78f01d1a-a06e-4ccd-892a-902320dc4fd6.jpg?v=1763529542",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-outdoor-scarves-and-neck-warmers": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20ZW02B_06220_1_97e4b267-7bb2-4d1a-ab25-a447f1301924.jpg?v=1779140944",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girls-must-haves": [
+    {
+      "position": 19,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20YG60_09990_1_3f65030f-429e-4ed8-9f48-f1a2df92c026.jpg?v=1779140967",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boys-must-haves": [
+    {
+      "position": 13,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20YB24_01230_1_6de64a22-726d-4f69-9758-27196298ed75.jpg?v=1779140946",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl-sets": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20A11_2J235_1.jpg?v=1783618008",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "fashion-jackets-coats-for-girls": [
+    {
+      "position": 12,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20F50_2J253_1.jpg?v=1776802868",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl-hats": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20QH_09990_P2.jpg?v=1785257106",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girls-headwear": [
+    {
+      "position": 10,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20QH_09990_P2.jpg?v=1785257106",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "winter-hats": [],
+  "winter-mittens-gloves": [],
+  "winter-neckwarmers": [],
+  "balaclava": [],
+  "ski-accessories": [],
+  "one-piece-snowsuits-for-kids": [],
+  "mid-season-jackets-coats": [],
+  "two-piece-mid-season-outerwear": [
+    {
+      "position": 11,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J10MG10_1J021_1.jpg?v=1781289196",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "outdoor-accessories": [],
+  "winter-gear-adapted-for-strollers": [],
+  "teknik-snowsuits-and-winter-accessories": [],
+  "baby-boy": [
+    {
+      "position": 6,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20CT11_04570_1_aeb67708-d756-461b-9c97-b5e4a937895e.jpg?v=1779140595",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "baby-girl": [
+    {
+      "position": 6,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20A10_05840_1.jpg?v=1783617963",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "boy": [
+    {
+      "position": 6,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20M74_2J317_1_1fb1cd8f-14af-4eaa-8b9b-035ead2e5144.jpg?v=1779140719",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "girl": [
+    {
+      "position": 6,
+      "title": "La boutique neige",
+      "subtitle": "Pr\u00eats pour les premi\u00e8res neiges",
+      "image": "https://cdn.shopify.com/s/files/1/0427/6659/8301/files/J20L76_05130_1_e8946de8-df27-4378-8807-dd88f0e5c787.jpg?v=1779140691",
+      "destination": "/fr/collections/the-snow-shop",
+      "valid_from": "2026-09-19",
+      "valid_until": "2026-09-26"
+    }
+  ],
+  "the-snow-shop": []
+}
